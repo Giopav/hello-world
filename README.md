@@ -1,2 +1,3 @@
 # hello-world
-Everything.
+Everything, but also a bit more.
+:)
